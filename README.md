@@ -4,13 +4,12 @@
 
 ![screenshot](./app_screenshot.png)
 
-This is a webpage on the biography of Dr. Norman Borlaug, his lifetime and achievements. 
+This is a webpage on the biography of Dr. Norman Borlaug, his lifetime and achievements.
 
 ## Built With
 
 - HTML,
 - CSS,
-
 
 ## Live Demo
 
