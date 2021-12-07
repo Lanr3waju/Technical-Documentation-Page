@@ -1,10 +1,50 @@
 body {
   background-color: grey;
+  font-size: 1.1em;
+  font-family: ubuntu, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  display: block;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
+
+h1 {
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
+
+#side-bar {
+  border-right: 3px solid gray;
+  font-size: 1em;
+}
+
+code {
+  display: block;
+  background-color: rgb(215, 209, 209);
+  font-size: smaller;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+ul li {
+  margin-top: 10px;
 }
 
 #main {
   display: grid;
   grid-template-columns: 30% 70%;
-  grid-gap: 10px;
+  grid-gap: 30px;
   width: 90%;
+}
+
+@media only screen and (min-width: 500px) {
+  body {
+    background-color: white;
+  }
 }
