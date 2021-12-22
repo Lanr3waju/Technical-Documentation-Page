@@ -21,7 +21,7 @@ This is the fourth freecodecamp project on responsive web design, and it is a te
 
 ## Live Demo
 
-[Live Demo Link](https://landing-page-abass.netlify.app/)
+[Live Demo Link](https://js-technical-doc-page.netlify.app)
 
 ### Development (Running locally)
 
